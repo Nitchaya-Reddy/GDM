@@ -8,3 +8,4 @@ seaborn
 imbalanced-learn
 tensorflow
 shap
+watchdog>=2.1.9
