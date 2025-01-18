@@ -1,10 +1,10 @@
+streamlit==1.24.0  # Example version; use the one you need
+joblib
 pandas
 numpy
+scikit-learn
 matplotlib
 seaborn
-scikit-learn
 imbalanced-learn
 tensorflow
 shap
-joblib
-streamlit
